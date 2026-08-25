@@ -16,8 +16,6 @@ The IoT-Based Dog Daycare Robotic System is a smart pet monitoring and feeding s
 
 The system integrates ESP32-CAM, ultrasonic sensors, servo motors, Firebase cloud services, and a web-based control interface to provide real-time pet monitoring and automated food dispensing.
 
-
-
  🎯 Objectives
 
 - Enable remote pet monitoring through live video streaming.
@@ -26,7 +24,6 @@ The system integrates ESP32-CAM, ultrasonic sensors, servo motors, Firebase clou
 - Allow users to control the robot remotely via the internet.
 - Improve pet care when owners are away from home.
 
----
 
  🚀 Key Features
 
@@ -46,9 +43,9 @@ The system integrates ESP32-CAM, ultrasonic sensors, servo motors, Firebase clou
 
 ---
 
- 🏗️ System Architecture
+🏗️ System Architecture
 
-
+```text
 User Device (Mobile/Laptop)
             │
             ▼
@@ -64,7 +61,7 @@ User Device (Mobile/Laptop)
  ▼          ▼          ▼
 Servo     Ultrasonic  Motor Driver
 Motor      Sensor      (L293D)
-```
+
 
 ---
 
