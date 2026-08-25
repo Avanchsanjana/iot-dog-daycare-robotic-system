@@ -6,3 +6,7 @@ The IoT-Based Dog Daycare Robotic System is a smart pet monitoring and feeding s
 The system enables real-time pet monitoring, automatic food dispensing, food-level detection, and remote robot control through an internet-connected web interface.
 
 This project combines IoT technologies, embedded systems, wireless communication, and cloud connectivity to provide a modern pet care solution.
+images/
+![Final Design](images/final_design.jpg)
+
+![Demo Application](images/demo_application.jpg)
