@@ -8,5 +8,5 @@ The system enables real-time pet monitoring, automatic food dispensing, food-lev
 This project combines IoT technologies, embedded systems, wireless communication, and cloud connectivity to provide a modern pet care solution.
 images/
 ![Final Design](OUTPUTS.pdf)
-![Demo Application](VIDEO OF IOT Dog Daycare Robot.mp4)
+![Demo Application](VIDEO OF IOT Dog Daycare Robot.mp4).
 
